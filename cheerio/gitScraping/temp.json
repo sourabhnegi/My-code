@@ -1,0 +1,829 @@
+[{
+        "topicUrl": "https://www.github.com/topics/ethereum",
+        "repos": [{
+                "repoUrl": "https://www.github.com/ethereum/go-ethereum",
+                "issues": [{
+                        "issueName": "Add eth_createAccessList to Geth docs",
+                        "issueUrl": "https://www.github.com/ethereum/go-ethereum/issues/23588"
+                    },
+                    {
+                        "issueName": "Remove unnecessary calls to eth_getBlockByNumber when gasPrice is set",
+                        "issueUrl": "https://www.github.com/ethereum/go-ethereum/issues/23586"
+                    },
+                    {
+                        "issueName": "eth.syncing broken in snap sync",
+                        "issueUrl": "https://www.github.com/ethereum/go-ethereum/issues/23584"
+                    },
+                    {
+                        "issueName": " Failed to read account password contents",
+                        "issueUrl": "https://www.github.com/ethereum/go-ethereum/issues/23582"
+                    },
+                    {
+                        "issueName": "Mainnet stop sync at block 13217655 and  CPU takes up 100%",
+                        "issueUrl": "https://www.github.com/ethereum/go-ethereum/issues/23581"
+                    },
+                    {
+                        "issueName": "Ropsten corrupt database on reorg",
+                        "issueUrl": "https://www.github.com/ethereum/go-ethereum/issues/23577"
+                    },
+                    {
+                        "issueName": "[JSON RPC] Inconsistency between WS and IPC",
+                        "issueUrl": "https://www.github.com/ethereum/go-ethereum/issues/23575"
+                    },
+                    {
+                        "issueName": "Enhancing subscription processing to be able to work with transaction data",
+                        "issueUrl": "https://www.github.com/ethereum/go-ethereum/issues/23574"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ccxt/ccxt",
+                "issues": [{
+                        "issueName": "Tradingview Webhook Symbol Issue",
+                        "issueUrl": "https://www.github.com/ccxt/ccxt/issues/9993"
+                    },
+                    {
+                        "issueName": "[suggestion] new ExchangeError: MaxPositionExceeded",
+                        "issueUrl": "https://www.github.com/ccxt/ccxt/issues/9987"
+                    },
+                    {
+                        "issueName": "Intermittent Network Error ",
+                        "issueUrl": "https://www.github.com/ccxt/ccxt/issues/9985"
+                    },
+                    {
+                        "issueName": "[wavesexchange] ccxt.base.errors.BadSymbol: wavesexchange does not have market symbol BTC/USDC",
+                        "issueUrl": "https://www.github.com/ccxt/ccxt/issues/9982"
+                    },
+                    {
+                        "issueName": "New exchange Bitclude",
+                        "issueUrl": "https://www.github.com/ccxt/ccxt/issues/9981"
+                    },
+                    {
+                        "issueName": "Placing a stop-limit order on Gate.io",
+                        "issueUrl": "https://www.github.com/ccxt/ccxt/issues/9968"
+                    },
+                    {
+                        "issueName": "CoinbasePro error on watchTrades ",
+                        "issueUrl": "https://www.github.com/ccxt/ccxt/issues/9963"
+                    },
+                    {
+                        "issueName": "Phemex how close position",
+                        "issueUrl": "https://www.github.com/ccxt/ccxt/issues/9962"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/OpenZeppelin/openzeppelin-contracts",
+                "issues": [{
+                        "issueName": "Governor module for governance-settable parameters",
+                        "issueUrl": "https://www.github.com/OpenZeppelin/openzeppelin-contracts/issues/2866"
+                    },
+                    {
+                        "issueName": "Use invalid opcode in MinimalForwarder",
+                        "issueUrl": "https://www.github.com/OpenZeppelin/openzeppelin-contracts/issues/2864"
+                    },
+                    {
+                        "issueName": "Cannot compile MinimalForwarder from meta-transaction",
+                        "issueUrl": "https://www.github.com/OpenZeppelin/openzeppelin-contracts/issues/2862"
+                    },
+                    {
+                        "issueName": "Feature: Add an “onlyProxy”-Like Check to the Initializable Contract",
+                        "issueUrl": "https://www.github.com/OpenZeppelin/openzeppelin-contracts/issues/2861"
+                    },
+                    {
+                        "issueName": "Feature: Include Base64 library in utils",
+                        "issueUrl": "https://www.github.com/OpenZeppelin/openzeppelin-contracts/issues/2859"
+                    },
+                    {
+                        "issueName": "Define \"describe\" in tests",
+                        "issueUrl": "https://www.github.com/OpenZeppelin/openzeppelin-contracts/issues/2848"
+                    },
+                    {
+                        "issueName": "Make permit compatible with smart-contract wallets like Gnosis and Argent",
+                        "issueUrl": "https://www.github.com/OpenZeppelin/openzeppelin-contracts/issues/2845"
+                    },
+                    {
+                        "issueName": "MerkleProof rebuild root.",
+                        "issueUrl": "https://www.github.com/OpenZeppelin/openzeppelin-contracts/issues/2840"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ethereum/solidity",
+                "issues": [{
+                        "issueName": "Unhelpful error message",
+                        "issueUrl": "https://www.github.com/ethereum/solidity/issues/11987"
+                    },
+                    {
+                        "issueName": "Builtin for UTS46 / IDNA normalisation",
+                        "issueUrl": "https://www.github.com/ethereum/solidity/issues/11972"
+                    },
+                    {
+                        "issueName": "Operators for user defined value types.",
+                        "issueUrl": "https://www.github.com/ethereum/solidity/issues/11969"
+                    },
+                    {
+                        "issueName": "[SMTChecker] Support user defined types",
+                        "issueUrl": "https://www.github.com/ethereum/solidity/issues/11966"
+                    },
+                    {
+                        "issueName": "[Yul Optimizer] Improve loop variables",
+                        "issueUrl": "https://www.github.com/ethereum/solidity/issues/11964"
+                    },
+                    {
+                        "issueName": "Errors, warnings and infos should have different colors in terminal output",
+                        "issueUrl": "https://www.github.com/ethereum/solidity/issues/11962"
+                    },
+                    {
+                        "issueName": "Clean up the helpers around errors",
+                        "issueUrl": "https://www.github.com/ethereum/solidity/issues/11959"
+                    },
+                    {
+                        "issueName": "Allowing regular constructor syntax for user defined value types",
+                        "issueUrl": "https://www.github.com/ethereum/solidity/issues/11953"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ChainSafe/web3.js",
+                "issues": [{
+                        "issueName": "Promise failed: Error: Given input \"[object Promise]\" is not a number.",
+                        "issueUrl": "https://www.github.com/ChainSafe/web3.js/issues/4328"
+                    },
+                    {
+                        "issueName": "web3.eth.getBlock() returns baseFeePerGas field as hex string instead of BN or number",
+                        "issueUrl": "https://www.github.com/ChainSafe/web3.js/issues/4326"
+                    },
+                    {
+                        "issueName": "[Rewrite 4.x] CI / CD ",
+                        "issueUrl": "https://www.github.com/ChainSafe/web3.js/issues/4325"
+                    },
+                    {
+                        "issueName": "[Rewrite 4.x] Beacon Chain",
+                        "issueUrl": "https://www.github.com/ChainSafe/web3.js/issues/4324"
+                    },
+                    {
+                        "issueName": "[Rewrite 4.x] Common Utils",
+                        "issueUrl": "https://www.github.com/ChainSafe/web3.js/issues/4323"
+                    },
+                    {
+                        "issueName": "[Rewrite 4.x] IBAN",
+                        "issueUrl": "https://www.github.com/ChainSafe/web3.js/issues/4322"
+                    },
+                    {
+                        "issueName": "[Rewrite 4.x] ENS",
+                        "issueUrl": "https://www.github.com/ChainSafe/web3.js/issues/4321"
+                    },
+                    {
+                        "issueName": "[Rewrite 4.x] Transaction",
+                        "issueUrl": "https://www.github.com/ChainSafe/web3.js/issues/4320"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/trufflesuite/truffle",
+                "issues": [{
+                        "issueName": "HDWalletProvider; Execution Reverted when trying to 'setRecord' to claim ENS domain.",
+                        "issueUrl": "https://www.github.com/trufflesuite/truffle/issues/4308"
+                    },
+                    {
+                        "issueName": "Truffle migrate issue",
+                        "issueUrl": "https://www.github.com/trufflesuite/truffle/issues/4307"
+                    },
+                    {
+                        "issueName": "Truffle not installing on Mac via Node",
+                        "issueUrl": "https://www.github.com/trufflesuite/truffle/issues/4306"
+                    },
+                    {
+                        "issueName": "Support colorized Solidity errors and warnings",
+                        "issueUrl": "https://www.github.com/trufflesuite/truffle/issues/4305"
+                    },
+                    {
+                        "issueName": "Does @truffle/hdwallet-provider support private transaction in Quorum. ",
+                        "issueUrl": "https://www.github.com/trufflesuite/truffle/issues/4303"
+                    },
+                    {
+                        "issueName": "Using @truffle/contracts in Angular 12 project. \"fs\" problem",
+                        "issueUrl": "https://www.github.com/trufflesuite/truffle/issues/4302"
+                    },
+                    {
+                        "issueName": "Terminal Error no permission need assitance",
+                        "issueUrl": "https://www.github.com/trufflesuite/truffle/issues/4298"
+                    },
+                    {
+                        "issueName": "Truffle Debug stops with the output \"stepping\"",
+                        "issueUrl": "https://www.github.com/trufflesuite/truffle/issues/4297"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ethereumbook/ethereumbook",
+                "issues": [{
+                        "issueName": "Chapter 9: Uninitialized Storage Pointers is out of date",
+                        "issueUrl": "https://www.github.com/ethereumbook/ethereumbook/issues/1044"
+                    },
+                    {
+                        "issueName": "First faucet contract issue",
+                        "issueUrl": "https://www.github.com/ethereumbook/ethereumbook/issues/1041"
+                    },
+                    {
+                        "issueName": "Chapter 2: Ropsten Test Faucet issues",
+                        "issueUrl": "https://www.github.com/ethereumbook/ethereumbook/issues/1033"
+                    },
+                    {
+                        "issueName": "Metamask was not detected!",
+                        "issueUrl": "https://www.github.com/ethereumbook/ethereumbook/issues/1032"
+                    },
+                    {
+                        "issueName": "Replace shortened links with regular urls",
+                        "issueUrl": "https://www.github.com/ethereumbook/ethereumbook/issues/1029"
+                    },
+                    {
+                        "issueName": "Gas estimation errored with the following message (see below). The transaction execution will likely fail. Do you want to force sending? execution reverted",
+                        "issueUrl": "https://www.github.com/ethereumbook/ethereumbook/issues/1025"
+                    },
+                    {
+                        "issueName": "Chapter 12 (Dapps): Can we include proxy contracts to the material?",
+                        "issueUrl": "https://www.github.com/ethereumbook/ethereumbook/issues/1019"
+                    },
+                    {
+                        "issueName": "Chapter 3: Reviewing / potentially updating list of clients",
+                        "issueUrl": "https://www.github.com/ethereumbook/ethereumbook/issues/1017"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ethereum/mist",
+                "issues": [{
+                        "issueName": "Please help cant open my ETH wallet,  ",
+                        "issueUrl": "https://www.github.com/ethereum/mist/issues/4226"
+                    },
+                    {
+                        "issueName": "Stuck in Splash screen",
+                        "issueUrl": "https://www.github.com/ethereum/mist/issues/4224"
+                    },
+                    {
+                        "issueName": "It requieres some Gith, WTF IS THIS",
+                        "issueUrl": "https://www.github.com/ethereum/mist/issues/4223"
+                    },
+                    {
+                        "issueName": "Fatal: Error starting Ethereum: listen udp :30303:",
+                        "issueUrl": "https://www.github.com/ethereum/mist/issues/4222"
+                    },
+                    {
+                        "issueName": "Me ethereum wallet stopped syncing with the network on new years day, during the last upgrade. And its been 6 days, and it won't sync at all? i live in cincinnati ohio area  USA. ",
+                        "issueUrl": "https://www.github.com/ethereum/mist/issues/4221"
+                    },
+                    {
+                        "issueName": "How much time it takes to generate wallet? ",
+                        "issueUrl": "https://www.github.com/ethereum/mist/issues/4218"
+                    },
+                    {
+                        "issueName": "Checksum mismatch in dowloaded node! ",
+                        "issueUrl": "https://www.github.com/ethereum/mist/issues/4217"
+                    },
+                    {
+                        "issueName": "Create MIST for a custom token?",
+                        "issueUrl": "https://www.github.com/ethereum/mist/issues/4216"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/ipfs",
+        "repos": [{
+                "repoUrl": "https://www.github.com/ipfs/ipfs",
+                "issues": [{
+                        "issueName": "2021-08-20 ipfs.io outage Post Mortem Tracking issue",
+                        "issueUrl": "https://www.github.com/ipfs/ipfs/issues/469"
+                    },
+                    {
+                        "issueName": "Reference and/or implement IPFS kernel modules",
+                        "issueUrl": "https://www.github.com/ipfs/ipfs/issues/466"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ipfs/go-ipfs",
+                "issues": [{
+                        "issueName": "Export unixfs_get_latency_seconds as histogram",
+                        "issueUrl": "https://www.github.com/ipfs/go-ipfs/issues/8441"
+                    },
+                    {
+                        "issueName": "Multiple users publish to IPNS at the same time",
+                        "issueUrl": "https://www.github.com/ipfs/go-ipfs/issues/8433"
+                    },
+                    {
+                        "issueName": "Partial pinning progress is not preserved well.",
+                        "issueUrl": "https://www.github.com/ipfs/go-ipfs/issues/8426"
+                    },
+                    {
+                        "issueName": "Provide a way to destroy pinset",
+                        "issueUrl": "https://www.github.com/ipfs/go-ipfs/issues/8421"
+                    },
+                    {
+                        "issueName": "Gateway opening HAMT dir produces: internalWebError: context canceled",
+                        "issueUrl": "https://www.github.com/ipfs/go-ipfs/issues/8420"
+                    },
+                    {
+                        "issueName": "Warn user when 'pin remote add' while offline",
+                        "issueUrl": "https://www.github.com/ipfs/go-ipfs/issues/8418"
+                    },
+                    {
+                        "issueName": "0.10 dag API changes breaking HTTP API (discussion for resolution)",
+                        "issueUrl": "https://www.github.com/ipfs/go-ipfs/issues/8415"
+                    },
+                    {
+                        "issueName": "Warn users when pinned dataset is larger than local GCThreshold",
+                        "issueUrl": "https://www.github.com/ipfs/go-ipfs/issues/8413"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/orbitdb/orbit-db",
+                "issues": [{
+                        "issueName": "Releasing version 0.27 - latest js/go ipfs support",
+                        "issueUrl": "https://www.github.com/orbitdb/orbit-db/issues/913"
+                    },
+                    {
+                        "issueName": "switch puppeteer for puppeteer-core",
+                        "issueUrl": "https://www.github.com/orbitdb/orbit-db/issues/911"
+                    },
+                    {
+                        "issueName": "Using of OrbitDB",
+                        "issueUrl": "https://www.github.com/orbitdb/orbit-db/issues/910"
+                    },
+                    {
+                        "issueName": "go-ipfs 0.10.0 support",
+                        "issueUrl": "https://www.github.com/orbitdb/orbit-db/issues/909"
+                    },
+                    {
+                        "issueName": "In-browser examples/tutorials",
+                        "issueUrl": "https://www.github.com/orbitdb/orbit-db/issues/907"
+                    },
+                    {
+                        "issueName": "Proposal for two pull requests",
+                        "issueUrl": "https://www.github.com/orbitdb/orbit-db/issues/906"
+                    },
+                    {
+                        "issueName": "TypeScript support",
+                        "issueUrl": "https://www.github.com/orbitdb/orbit-db/issues/905"
+                    },
+                    {
+                        "issueName": "OrbitDb.createInstance fails because of call to deprecated CID method",
+                        "issueUrl": "https://www.github.com/orbitdb/orbit-db/issues/904"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ipfs/js-ipfs",
+                "issues": [{
+                        "issueName": "[bug] downgrade libp2p",
+                        "issueUrl": "https://www.github.com/ipfs/js-ipfs/issues/3876"
+                    },
+                    {
+                        "issueName": "IPNS pubsub fails to update records",
+                        "issueUrl": "https://www.github.com/ipfs/js-ipfs/issues/3875"
+                    },
+                    {
+                        "issueName": "IPFS/IPNS Timing Out",
+                        "issueUrl": "https://www.github.com/ipfs/js-ipfs/issues/3874"
+                    },
+                    {
+                        "issueName": "ipfs-http-client upload folder not work",
+                        "issueUrl": "https://www.github.com/ipfs/js-ipfs/issues/3873"
+                    },
+                    {
+                        "issueName": "Type Error: using add() and urlSource()",
+                        "issueUrl": "https://www.github.com/ipfs/js-ipfs/issues/3867"
+                    },
+                    {
+                        "issueName": "error: datastore key does not have a valid format",
+                        "issueUrl": "https://www.github.com/ipfs/js-ipfs/issues/3865"
+                    },
+                    {
+                        "issueName": "Preload gives 200 response but 0 bytes of content for a CID",
+                        "issueUrl": "https://www.github.com/ipfs/js-ipfs/issues/3859"
+                    },
+                    {
+                        "issueName": "ipfs-http-client throws error when using in vite2",
+                        "issueUrl": "https://www.github.com/ipfs/js-ipfs/issues/3858"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/berty/berty",
+                "issues": [{
+                        "issueName": "[BUG]: IPFS Default Bootstrap list",
+                        "issueUrl": "https://www.github.com/berty/berty/issues/3524"
+                    },
+                    {
+                        "issueName": "[FEATURE]: Channel",
+                        "issueUrl": "https://www.github.com/berty/berty/issues/3492"
+                    },
+                    {
+                        "issueName": "[BUG]: Problems with the Input Box",
+                        "issueUrl": "https://www.github.com/berty/berty/issues/3457"
+                    },
+                    {
+                        "issueName": "[BUG]: Bugged Switches",
+                        "issueUrl": "https://www.github.com/berty/berty/issues/3456"
+                    },
+                    {
+                        "issueName": "Navigate instead of erroring on contact already added",
+                        "issueUrl": "https://www.github.com/berty/berty/issues/3451"
+                    },
+                    {
+                        "issueName": "[BUG]: Repeat QR code reads",
+                        "issueUrl": "https://www.github.com/berty/berty/issues/3447"
+                    },
+                    {
+                        "issueName": "[BUG]: Inconsistency with -log.file flag",
+                        "issueUrl": "https://www.github.com/berty/berty/issues/3398"
+                    },
+                    {
+                        "issueName": "[BUG]: QR code scan even when popup is there",
+                        "issueUrl": "https://www.github.com/berty/berty/issues/3393"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ipfs/ipfs-desktop",
+                "issues": [{
+                        "issueName": "RPM package collides with 1Password",
+                        "issueUrl": "https://www.github.com/ipfs/ipfs-desktop/issues/1908"
+                    },
+                    {
+                        "issueName": "Snap on Linux: EACCES: permission denied (..) .config/IPFS Desktop/config.json",
+                        "issueUrl": "https://www.github.com/ipfs/ipfs-desktop/issues/1906"
+                    },
+                    {
+                        "issueName": "Debian package depends on libappindicator3-1 which does not exist in Debian stable",
+                        "issueUrl": "https://www.github.com/ipfs/ipfs-desktop/issues/1904"
+                    },
+                    {
+                        "issueName": "Update to Electron 14",
+                        "issueUrl": "https://www.github.com/ipfs/ipfs-desktop/issues/1902"
+                    },
+                    {
+                        "issueName": "Avoid running Renderer when WebUI is not shown",
+                        "issueUrl": "https://www.github.com/ipfs/ipfs-desktop/issues/1893"
+                    },
+                    {
+                        "issueName": "Clean up the UX of using a remote note",
+                        "issueUrl": "https://www.github.com/ipfs/ipfs-desktop/issues/1888"
+                    },
+                    {
+                        "issueName": "deprecated and replaced module i18next-node-fs-backend",
+                        "issueUrl": "https://www.github.com/ipfs/ipfs-desktop/issues/1884"
+                    },
+                    {
+                        "issueName": "deprecated module 'request'",
+                        "issueUrl": "https://www.github.com/ipfs/ipfs-desktop/issues/1883"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/embarklabs/embark",
+                "issues": [{
+                        "issueName": "Transactions in the Cockpit interface are always empty",
+                        "issueUrl": "https://www.github.com/embarklabs/embark/issues/2517"
+                    },
+                    {
+                        "issueName": "Multiple errors installing and running on Mac",
+                        "issueUrl": "https://www.github.com/embarklabs/embark/issues/2502"
+                    },
+                    {
+                        "issueName": "Status of this project",
+                        "issueUrl": "https://www.github.com/embarklabs/embark/issues/2496"
+                    },
+                    {
+                        "issueName": "Embark Fork Chain",
+                        "issueUrl": "https://www.github.com/embarklabs/embark/issues/2493"
+                    },
+                    {
+                        "issueName": "embark run geth error: Incorrect Usage. flag provided but not defined: -wsport",
+                        "issueUrl": "https://www.github.com/embarklabs/embark/issues/2482"
+                    },
+                    {
+                        "issueName": "Scripts are broken",
+                        "issueUrl": "https://www.github.com/embarklabs/embark/issues/2462"
+                    },
+                    {
+                        "issueName": "Add --force flag to embark build to force a redeploy of a smart contract",
+                        "issueUrl": "https://www.github.com/embarklabs/embark/issues/2461"
+                    },
+                    {
+                        "issueName": "Bump up ganache-cli dependency version",
+                        "issueUrl": "https://www.github.com/embarklabs/embark/issues/2455"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ipfs/awesome-ipfs",
+                "issues": [{
+                        "issueName": "A few dead items",
+                        "issueUrl": "https://www.github.com/ipfs/awesome-ipfs/issues/388"
+                    },
+                    {
+                        "issueName": "Discussion: App submission form fields",
+                        "issueUrl": "https://www.github.com/ipfs/awesome-ipfs/issues/367"
+                    },
+                    {
+                        "issueName": "Discussion: App submission form",
+                        "issueUrl": "https://www.github.com/ipfs/awesome-ipfs/issues/366"
+                    },
+                    {
+                        "issueName": "Move collab.ipfscluster.io into awesome-ipfs",
+                        "issueUrl": "https://www.github.com/ipfs/awesome-ipfs/issues/327"
+                    },
+                    {
+                        "issueName": "create a collaborative cluster for ressources",
+                        "issueUrl": "https://www.github.com/ipfs/awesome-ipfs/issues/326"
+                    },
+                    {
+                        "issueName": "Automate updating of readme",
+                        "issueUrl": "https://www.github.com/ipfs/awesome-ipfs/issues/324"
+                    },
+                    {
+                        "issueName": "The IPFS Ecosystem Diagram",
+                        "issueUrl": "https://www.github.com/ipfs/awesome-ipfs/issues/304"
+                    },
+                    {
+                        "issueName": "Add Bit Tube",
+                        "issueUrl": "https://www.github.com/ipfs/awesome-ipfs/issues/252"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/flask",
+        "repos": [{
+                "repoUrl": "https://www.github.com/pallets/flask",
+                "issues": [{
+                        "issueName": "[Feature] pass paramether to create_app when use flask.cli.FlaskGroup custom scripts",
+                        "issueUrl": "https://www.github.com/pallets/flask/issues/4248"
+                    },
+                    {
+                        "issueName": "jQuery example and patterns/jquery document don't match",
+                        "issueUrl": "https://www.github.com/pallets/flask/issues/4239"
+                    },
+                    {
+                        "issueName": "Handlers are called in wrong order when using nested blueprints",
+                        "issueUrl": "https://www.github.com/pallets/flask/issues/4229"
+                    },
+                    {
+                        "issueName": "Add exclude-patterns option for werkzeug reloader",
+                        "issueUrl": "https://www.github.com/pallets/flask/issues/4188"
+                    },
+                    {
+                        "issueName": "Any reason to keep g as a property on RequestContext?",
+                        "issueUrl": "https://www.github.com/pallets/flask/issues/3898"
+                    },
+                    {
+                        "issueName": "Flask's Celery docs are going to start failing with Celery 6 and get deprecation warnings with 5.x today",
+                        "issueUrl": "https://www.github.com/pallets/flask/issues/3871"
+                    },
+                    {
+                        "issueName": "Making the docs for blueprints more explicit about usecases with some examples.",
+                        "issueUrl": "https://www.github.com/pallets/flask/issues/3675"
+                    },
+                    {
+                        "issueName": "Testing docs are out of date",
+                        "issueUrl": "https://www.github.com/pallets/flask/issues/3545"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/apache/superset",
+                "issues": [{
+                        "issueName": "(native-filters) Filter is hierarchical dropdown does not list all options",
+                        "issueUrl": "https://www.github.com/apache/superset/issues/16724"
+                    },
+                    {
+                        "issueName": "Support AWS OpenSearch / Elasticsearch",
+                        "issueUrl": "https://www.github.com/apache/superset/issues/16723"
+                    },
+                    {
+                        "issueName": "[native_filter] add single select and inverse selection to numeric range",
+                        "issueUrl": "https://www.github.com/apache/superset/issues/16722"
+                    },
+                    {
+                        "issueName": "\"Edit Database\" dialog incorrectly limits submitting valid connection information.",
+                        "issueUrl": "https://www.github.com/apache/superset/issues/16721"
+                    },
+                    {
+                        "issueName": "[control][metrics] missing one custom metric will cause whole chart broken",
+                        "issueUrl": "https://www.github.com/apache/superset/issues/16719"
+                    },
+                    {
+                        "issueName": "Cannot view dashboards as public user",
+                        "issueUrl": "https://www.github.com/apache/superset/issues/16718"
+                    },
+                    {
+                        "issueName": "pkg_resources.ContextualVersionConflict: Flask-WTF",
+                        "issueUrl": "https://www.github.com/apache/superset/issues/16717"
+                    },
+                    {
+                        "issueName": "[TODO] Add multiple databases and schemas to the test environment",
+                        "issueUrl": "https://www.github.com/apache/superset/issues/16714"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/plotly/dash",
+                "issues": [{
+                        "issueName": "[BUG]",
+                        "issueUrl": "https://www.github.com/plotly/dash/issues/1757"
+                    },
+                    {
+                        "issueName": "[Feature Request] Move expire from callback manager to long_callback",
+                        "issueUrl": "https://www.github.com/plotly/dash/issues/1756"
+                    },
+                    {
+                        "issueName": "UserWarning:  The dash_core_components package is deprecated",
+                        "issueUrl": "https://www.github.com/plotly/dash/issues/1755"
+                    },
+                    {
+                        "issueName": "[BUG] displayModeBar showing only on certain visualizations",
+                        "issueUrl": "https://www.github.com/plotly/dash/issues/1754"
+                    },
+                    {
+                        "issueName": "Split out Dash CI only requirements into requires-ci.txt?",
+                        "issueUrl": "https://www.github.com/plotly/dash/issues/1742"
+                    },
+                    {
+                        "issueName": "flask_caching has an open CVE which inhibits use of cache.memoize decorator (?)",
+                        "issueUrl": "https://www.github.com/plotly/dash/issues/1740"
+                    },
+                    {
+                        "issueName": "Create a dash.data_table.from_dataframe helper function",
+                        "issueUrl": "https://www.github.com/plotly/dash/issues/1738"
+                    },
+                    {
+                        "issueName": "[Feature Request] Anchors for sections in the documentation",
+                        "issueUrl": "https://www.github.com/plotly/dash/issues/1733"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/jhao104/proxy_pool",
+                "issues": [{
+                        "issueName": "启动服务的时候出错是什么原因",
+                        "issueUrl": "https://www.github.com/jhao104/proxy_pool/issues/595"
+                    },
+                    {
+                        "issueName": "docker-compose可以运行，但是本地机子上使用api出错",
+                        "issueUrl": "https://www.github.com/jhao104/proxy_pool/issues/594"
+                    },
+                    {
+                        "issueName": "有一段代码看不懂",
+                        "issueUrl": "https://www.github.com/jhao104/proxy_pool/issues/593"
+                    },
+                    {
+                        "issueName": "docker 运行  无法启动的问题",
+                        "issueUrl": "https://www.github.com/jhao104/proxy_pool/issues/591"
+                    },
+                    {
+                        "issueName": "没有结果",
+                        "issueUrl": "https://www.github.com/jhao104/proxy_pool/issues/590"
+                    },
+                    {
+                        "issueName": "请问接口获取ip支持并发吗？",
+                        "issueUrl": "https://www.github.com/jhao104/proxy_pool/issues/588"
+                    },
+                    {
+                        "issueName": "最新的docker没法pull",
+                        "issueUrl": "https://www.github.com/jhao104/proxy_pool/issues/587"
+                    },
+                    {
+                        "issueName": "启动webApi服务报错，求教o(╥﹏╥)o",
+                        "issueUrl": "https://www.github.com/jhao104/proxy_pool/issues/583"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/Miserlou/Zappa",
+                "issues": [{
+                        "issueName": "I've found a bit more elegant solution to the GeoDjango problem. Good news: it doesn't rely on the configurable directory hackish-ness, but still (as of September 19th, 2019) relies on a separate fork of Zappa.",
+                        "issueUrl": "https://www.github.com/Miserlou/Zappa/issues/2226"
+                    },
+                    {
+                        "issueName": "AttributeError: 'Template' object has no attribute 'add_description'",
+                        "issueUrl": "https://www.github.com/Miserlou/Zappa/issues/2225"
+                    },
+                    {
+                        "issueName": "Zappa Deploy | Update error on \"No such file or directory\" Possible duplicate of https://github.com/Miserlou/Zappa/issues/1232",
+                        "issueUrl": "https://www.github.com/Miserlou/Zappa/issues/2224"
+                    },
+                    {
+                        "issueName": "Zappa not compatible with Python3.8",
+                        "issueUrl": "https://www.github.com/Miserlou/Zappa/issues/2222"
+                    },
+                    {
+                        "issueName": "AWS CodeBuild Error",
+                        "issueUrl": "https://www.github.com/Miserlou/Zappa/issues/2221"
+                    },
+                    {
+                        "issueName": "Decorating a event function may cause unexpected errors",
+                        "issueUrl": "https://www.github.com/Miserlou/Zappa/issues/2217"
+                    },
+                    {
+                        "issueName": "struggling with GET request to / yielded a 502 response code",
+                        "issueUrl": "https://www.github.com/Miserlou/Zappa/issues/2211"
+                    },
+                    {
+                        "issueName": "Schedule tasks with cron() format need to follow AWS rules",
+                        "issueUrl": "https://www.github.com/Miserlou/Zappa/issues/2209"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/humiaozuzu/awesome-flask",
+                "issues": [{
+                        "issueName": "Плагины",
+                        "issueUrl": "https://www.github.com/humiaozuzu/awesome-flask/issues/218"
+                    },
+                    {
+                        "issueName": "Add superset to the list of \"build with flask\"",
+                        "issueUrl": "https://www.github.com/humiaozuzu/awesome-flask/issues/217"
+                    },
+                    {
+                        "issueName": "Missing link on Tutorials leads to 404, should be erased. ",
+                        "issueUrl": "https://www.github.com/humiaozuzu/awesome-flask/issues/213"
+                    },
+                    {
+                        "issueName": " Flask Authentication - Update Flask-Security with Flask-Security-Too",
+                        "issueUrl": "https://www.github.com/humiaozuzu/awesome-flask/issues/207"
+                    },
+                    {
+                        "issueName": "Add GraphQL section",
+                        "issueUrl": "https://www.github.com/humiaozuzu/awesome-flask/issues/206"
+                    },
+                    {
+                        "issueName": "Adding Infinity Analytics ",
+                        "issueUrl": "https://www.github.com/humiaozuzu/awesome-flask/issues/205"
+                    },
+                    {
+                        "issueName": "Flask Frameworks - Remove no longer maintained frameworks ",
+                        "issueUrl": "https://www.github.com/humiaozuzu/awesome-flask/issues/198"
+                    },
+                    {
+                        "issueName": "Add flask-file-upload",
+                        "issueUrl": "https://www.github.com/humiaozuzu/awesome-flask/issues/183"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/miguelgrinberg/flasky",
+                "issues": [{
+                        "issueName": "Package used for Flasky API does not include a version number in its name",
+                        "issueUrl": "https://www.github.com/miguelgrinberg/flasky/issues/508"
+                    },
+                    {
+                        "issueName": "email confirmation token ",
+                        "issueUrl": "https://www.github.com/miguelgrinberg/flasky/issues/501"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/jofpin/trape",
+                "issues": [{
+                        "issueName": "Geolocation Map does not function session location ",
+                        "issueUrl": "https://www.github.com/jofpin/trape/issues/336"
+                    },
+                    {
+                        "issueName": "[x] ERROR: Resolver configuration could not be read or specified no nameservers.",
+                        "issueUrl": "https://www.github.com/jofpin/trape/issues/335"
+                    },
+                    {
+                        "issueName": "No Link for Public (ngrok link is missing)   Any Idea guys???",
+                        "issueUrl": "https://www.github.com/jofpin/trape/issues/334"
+                    },
+                    {
+                        "issueName": "هلوه",
+                        "issueUrl": "https://www.github.com/jofpin/trape/issues/333"
+                    },
+                    {
+                        "issueName": "ImportError: No module named http.client",
+                        "issueUrl": "https://www.github.com/jofpin/trape/issues/332"
+                    },
+                    {
+                        "issueName": "pip3 install requirements.txt ",
+                        "issueUrl": "https://www.github.com/jofpin/trape/issues/331"
+                    },
+                    {
+                        "issueName": "Socket.io client error",
+                        "issueUrl": "https://www.github.com/jofpin/trape/issues/330"
+                    },
+                    {
+                        "issueName": "Error in app",
+                        "issueUrl": "https://www.github.com/jofpin/trape/issues/329"
+                    }
+                ]
+            }
+        ]
+    }
+]
